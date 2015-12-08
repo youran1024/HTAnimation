@@ -1,6 +1,7 @@
 # HTAnimation
-#### An collection of Animations
-- #### StretchBubble
+#### An collection of Animation
+
+#### 1. StretchBubble
 ![animation](https://github.com/youran1024/HTAnimation/blob/master/Source/stretchBubble.gif)
 
 
