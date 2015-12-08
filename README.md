@@ -5,6 +5,8 @@
 ![animation](https://github.com/youran1024/HTAnimation/blob/master/Source/stretchBubble.gif)
 
 
+#### 2. AnimationDemo
+![animation](https://github.com/youran1024/HTAnimation/blob/master/Source/animationDemo.gif)
 
 
 
