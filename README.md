@@ -11,6 +11,9 @@
 #### 3. GooeyView
 ![animation](https://github.com/youran1024/HTAnimation/blob/master/Source/gooeyView.gif)
 
+#### 4. MaskBlowUpView
+![animation](https://github.com/youran1024/HTAnimation/blob/master/Source/MaskBlowUpView.gif)
+
 
 #### Thanks 
 
