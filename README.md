@@ -8,7 +8,8 @@
 #### 2. AnimationDemo
 ![animation](https://github.com/youran1024/HTAnimation/blob/master/Source/animationDemo.gif)
 
-
+#### 3. GooeyView
+![animation](https://github.com/youran1024/HTAnimation/blob/master/Source/gooeyView.gif)
 
 
 #### Thanks 
